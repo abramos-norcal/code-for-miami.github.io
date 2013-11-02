@@ -11,6 +11,7 @@ Fork, Edit, then Pull Request when ready.
 
 #Attribution and Thanks
 From the *Abramos <We Open/> NorCal* code repo, thanks to civic hacker Tiffany Renee for making the site distinctly NorCal and Scott Hess for permission to use his great photos.
+
 From the Code for Miami code repo, special thanks to the following Code for Miami brigade members who saw this project to fruition: Cristina Solana, Antonio Llanos. And you, if you plan on making improvements to this website!
 
 From the original Code for Hampton Roads repo: This repo and the site codeforvirginiabeach.org uses Twitter Bootstrap and started from their [Carousel jumbotron](http://twitter.github.com/bootstrap/examples/carousel.html) template. They are awesome.
