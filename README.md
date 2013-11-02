@@ -1,7 +1,6 @@
 http://abramos.net
 ===================
 
-Landing page for *Code for Miami*, originally a fork of the landing page for *Code for Hampton Roads*
 Landing page for *Abramos <We Open/> NorCal*, originally a fork of the landing page for *Code for Miami*
 
 #How to Code for this Repo
