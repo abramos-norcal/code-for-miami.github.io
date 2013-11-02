@@ -1,4 +1,3 @@
-http://codeformiami.org
 http://abramos.net
 ===================
 
