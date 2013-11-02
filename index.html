@@ -417,13 +417,13 @@ UserVoice.push(['autoprompt', {}]);
 	    })
 
     //GLOBAL VARIABLES HERE//
- var apiKey = "2975b6e4c43147824522959761677",
-        meetupGroupUrl = "Code-for-Miami";
+ var apiKey = "7b6e20103f68193a385d5d3432472778",
+        meetupGroupUrl = "Abramos-We-Open-NorCal";
 
     var memberList = new Array();
    
     //get the next event
-    $.getJSON("http://api.meetup.com/2/events?status=upcoming&order=time&limited_events=False&group_urlname=Code-For-Miami&desc=false&offset=0&format=json&page=20&fields=&sig_id=14485765&sig=ee64791e1ab7c9e6f82c5f5e47c85118fa698fd6&callback=?",function(upcomingData) { 
+    $.getJSON("http://api.meetup.com/2/events?status=upcoming&order=time&limited_events=False&group_urlname=Abramos-We-Open-NorCal&desc=false&offset=0&format=json&page=20&fields=&sig_id=14485765&sig=ee64791e1ab7c9e6f82c5f5e47c85118fa698fd6&callback=?",function(upcomingData) { 
 
       eventTime = upcomingData.results[0].time;
       
